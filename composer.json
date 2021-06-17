@@ -1,0 +1,16 @@
+{
+    "name": "rj1/maildir",
+    "description": "A maildir library for PHP",
+    "type": "library",
+    "license": "AGPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Rj1\\Maildir\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "rj1",
+        "email": "rj1@riseup.net"
+    }],
+    "require": {}
+}
